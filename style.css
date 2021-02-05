@@ -1,0 +1,26 @@
+<style>
+a{
+ color:black;
+ text-decoration: none;
+}
+
+h1{
+ font-size: 150px;
+ text-align: center;
+ border-bottom: 1px solid gray;
+ margin:0;
+ padding-bottom: 50px
+}
+
+ol{
+ border-right: 3px solid gray;
+ width: 100px;
+ margin: 0;
+}
+
+h4{
+ margin-left: 170px;
+ text-align:center;
+}
+
+</style>
